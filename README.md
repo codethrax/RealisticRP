@@ -6,7 +6,7 @@ Just report the issue here! If you know how to fix the issue, please just edit t
 
 ## I want to edit the official repository!
 Just create a pull request! However, the following guidelines must be followed, or you will be denied:
-* You must have legible code.
-* You must have no whitespaces between a function's start/end and its code.
-* You must have no spaces between parenthesis.
-* You must use correct grammar.
+* Your code must be legible.
+* Your code must have no whitespaces between a function's start/end and its code.
+* Your code must have no spaces between parenthesis.
+* Your code must use correct grammar.
