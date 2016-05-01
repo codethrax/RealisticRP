@@ -1,0 +1,12 @@
+"realisticrp"
+{
+	"base" "base"
+	"title" "RealisticRP"
+	"version" "1.0.0"
+	"menusystem" "1"
+
+	"author_name" "code_thrax"
+	"author_url" "https://github.com/codethrax/RealisticRP"
+
+	"hide" "0"
+}
