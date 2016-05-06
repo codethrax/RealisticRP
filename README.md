@@ -10,3 +10,6 @@ Just create a pull request! However, the following guidelines must be followed, 
 * Your code must have no whitespaces between a function's start/end and its code.
 * Your code must have no spaces between parenthesis.
 * Your code must use correct grammar.
+
+## When will my feature be added?
+You can see all of the planned features, as well as when they'll be added, here: https://trello.com/b/cwezc94j/realisticrp
